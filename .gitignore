@@ -1,0 +1,12 @@
+# Ignore everything
+/*
+
+# Keep these
+!.gitignore
+!lib/
+!pubspec.yaml
+!analysis_options.yaml
+!README.md
+
+# (Optional) If you want assets too
+!assets/
